@@ -94,9 +94,6 @@ Results-driven professional with expertise in **Data Analysis**, **Engineering**
     <img alt = "github-snake" src"https://raw.githubusercontent.com/kakarot7072/Kakarot7072/output/github-snake.svg"/>
 </picture>
 
-
-'''
 <div align="center">
   <img src="https://profile-counter.glitch.me/kakarot7072/count.svg?"  />
 </div>
-'''
