@@ -1,4 +1,4 @@
-## Hi there 👋
+## _Hi there_ 👋
 <!--
 **kakarot7072/Kakarot7072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # I'm **Raman Singh**
 
-## A Data Engineer & Analytics!
+## A Data Engineer _&_ Analyst!
 
 - 🔭 I’m currently working on Transforming raw data into meaningful insights through engineering excellence and analytical expertise.
 - 👯 I’m looking to collaborate on Building robust data pipelines and infrastructure.
