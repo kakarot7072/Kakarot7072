@@ -18,15 +18,10 @@ Here are some ideas to get you started:
 # I'm Data Engineer & Analytics!
 <br><br>
 - 🔭 I’m currently working on Transforming raw data into meaningful insights through engineering excellence and analytical expertise.
-<br>
 - 👯 I’m looking to collaborate on Building robust data pipelines and infrastructure.
-<br>
 - 🤝 I’m looking for help with Extracting insights from complex datasets.
-<br>
 - 🌱 I’m currently learning Creating efficient and scalable solutions.
-<br>
 - 💬 Ask me about anything related.
-<br>
 - ⚡ I love to play ⚽.
 <br>
 <br>
