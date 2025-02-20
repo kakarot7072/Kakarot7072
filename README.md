@@ -14,18 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# I'm **Raman Singh**
 
-# I'm Data Engineer & Analytics!
+## A Data Engineer & Analytics!
 
 - 🔭 I’m currently working on Transforming raw data into meaningful insights through engineering excellence and analytical expertise.
 - 👯 I’m looking to collaborate on Building robust data pipelines and infrastructure.
 - 🤝 I’m looking for help with Extracting insights from complex datasets.
 - 🌱 I’m currently learning Creating efficient and scalable solutions.
 - 💬 Ask me about anything related.
-- ⚡ I love to play ⚽
+- ⚡ I love to play **⚽**
 
 
-Results-driven professional with expertise in **Data Analysis**, **Engineering** and **Python Development**, leveraging over the of experience in transforming raw data into actionable insights and scalable solutions. Adept at designing efficient __Data Pipelines__, developing robust __ETL__ processes and employing statistical and __Machine Learning__ techniques to drive __data-driven__ decisions. Proficient in Python, SQL and cloudbased technologies, with a strong foundation in **Data Visualization** and reporting tools. Recognized for problem-solving skills, process optimization and delivering high-impact projects in dynamic environments.
+Results-driven professional with expertise in **Data Analysis**, **Engineering** and **Python Development**, leveraging over the of experience in transforming raw data into actionable insights and scalable solutions. Adept at designing efficient _Data Pipelines_, developing robust _ETL_ processes and employing statistical and _Machine Learning_ techniques to drive _data-driven_ decisions. Proficient in Python, SQL and cloudbased technologies, with a strong foundation in **Data Visualization** and reporting tools. Recognized for problem-solving skills, process optimization and delivering high-impact projects in dynamic environments.
 
 
 ## 🌐 Socials:
