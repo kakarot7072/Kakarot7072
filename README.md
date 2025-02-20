@@ -15,7 +15,29 @@ Here are some ideas to get you started:
 -->
 
 
-# Data Engineer & Analytics!<br><br>🔭 I’m currently working on Transforming raw data into meaningful insights through engineering excellence and analytical expertise.<br>👯 I’m looking to collaborate on Building robust data pipelines and infrastructure.<br>🤝 I’m looking for help with Extracting insights from complex datasets.<br>🌱 I’m currently learning Creating efficient and scalable solutions.<br>💬 Ask me about anything related.<br>⚡ I love to play ⚽.<br><br>As a Data Analyst, I am responsible for collecting, processing and performing statistical analysis on large datasets to extract meaningful insights. My role involves collaborating with cross-functional teams to identify trends, generate reports and visualize data using tools like Power BI and Excel. I focus on ensuring data quality and accuracy while supporting decision-making processes through data-driven insights. Additionally, I work with relational databases, SQL queries, data cleaning and creating pipelines techniques to streamline and optimize data analysis workflows for business growth.
+# I'm Data Engineer & Analytics!
+<br><br>
+- 🔭 I’m currently working on Transforming raw data into meaningful insights through engineering excellence and analytical expertise.
+<br>
+- 👯 I’m looking to collaborate on Building robust data pipelines and infrastructure.
+<br>
+- 🤝 I’m looking for help with Extracting insights from complex datasets.
+<br>
+- 🌱 I’m currently learning Creating efficient and scalable solutions.
+<br>
+- 💬 Ask me about anything related.
+<br>
+- ⚡ I love to play ⚽.
+<br>
+<br>
+
+As a **Data Analyst**, I am responsible for collecting, processing and performing statistical analysis on large datasets to extract meaningful insights. 
+
+My role involves collaborating with cross-functional teams to identify trends, generate reports and __visualize data__ using tools like **Power BI** and __Excel__. 
+
+I focus on ensuring data quality and accuracy while supporting decision-making processes through data-driven insights. 
+
+Additionally, I work with relational databases, **SQL** queries, __data cleaning__ and __creating pipelines__ techniques to streamline and optimize data analysis workflows for business growth.
 
 
 ## 🌐 Socials:
