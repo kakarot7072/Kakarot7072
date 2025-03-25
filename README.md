@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 Results-driven professional with expertise in **Data Analysis**, **Engineering** and **Python Development**, leveraging over the of experience in transforming raw data into actionable insights and scalable solutions. Adept at designing efficient _Data Pipelines_, developing robust _ETL_ processes and employing statistical and _Machine Learning_ techniques to drive _data-driven_ decisions. Proficient in Python, SQL and cloudbased technologies, with a strong foundation in **Data Visualization** and reporting tools. Recognized for problem-solving skills, process optimization and delivering high-impact projects in dynamic environments.
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kakarot7072) 
 
 ## 💻 Tech Stack:
@@ -71,18 +71,18 @@ Results-driven professional with expertise in **Data Analysis**, **Engineering**
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) 
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black)
 
-# 📊 GitHub Stats:
+# 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kakarot7072&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=siddhi-sudrania&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kakarot7072&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kakarot7072&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
+### 🔝 Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kakarot7072&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
